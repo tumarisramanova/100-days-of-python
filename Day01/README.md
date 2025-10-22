@@ -5,5 +5,7 @@ A fun little Python program that helps you come up with a band name by combining
 🧠 What I learned:
 
 How to use the input() and print() functions
+
 How to combine strings using +
+
 How to make interactive console programs
